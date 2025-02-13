@@ -1,0 +1,6 @@
+@DotNet9_web_api_tutorial_HostAddress = http://localhost:5164
+
+GET {{DotNet9_web_api_tutorial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

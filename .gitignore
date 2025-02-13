@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DotNet9-web-api-tutorial/bin/Debug/net9.0
+/DotNet9-web-api-tutorial/obj
+/.vs
